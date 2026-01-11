@@ -1,12 +1,12 @@
-<h1 align="center">
+<h1 align="left">
   SEO  MI JI 🪽
 </h1>
 
-<p align="center">
+<p align="left">
   <i>Backend Developer | Java · Spring · FastAPI</i>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://solved.ac/itsanisland/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsanisland" />
   </a>
