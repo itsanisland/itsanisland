@@ -11,6 +11,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanisland&layout=compact&theme=graywhite"
     height="165"
   />
+ &nbsp;
   <a href="https://solved.ac/itsanisland/">
     <img
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=itsanisland"
