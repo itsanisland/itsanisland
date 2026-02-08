@@ -26,35 +26,35 @@
 
 <table>
   <tr>
-    <td>Language</td>
+    <td><b>Language</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td>Backend</td>
+    <td><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td>Database</td>
+    <td><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td>DevOps</td>
+    <td><b>DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td>Tools & IDE</td>
+    <td><b>Tools & IDE</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
